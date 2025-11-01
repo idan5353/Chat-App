@@ -6,6 +6,10 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A production-ready, scalable real-time chat application built entirely on AWS serverless architecture. This project demonstrates modern DevOps practices, cloud-native development, and enterprise-grade security patterns [memory:3][memory:4].
+<img width="1919" height="914" alt="chat1" src="https://github.com/user-attachments/assets/c505922a-eaf8-4923-b6f8-ed7fb988a6d6" />
+<img width="1916" height="920" alt="chat2" src="https://github.com/user-attachments/assets/d183f78a-9d93-4032-82a9-15720edae9de" />
+<img width="1915" height="834" alt="chat3" src="https://github.com/user-attachments/assets/b36d3e4d-f0b7-41e6-9ce0-c017140966ea" />
+<img width="1918" height="920" alt="chat4" src="https://github.com/user-attachments/assets/3c1767cb-6611-4619-a9c4-f1320265766c" />
 
 ## 🏗️ Architecture Overview
 
