@@ -1,10 +1,10 @@
 # 🚀 AWS Serverless Real-Time Chat Application
-![chatapp diagram drawio](https://github.com/user-attachments/assets/c0f30009-ec02-4ecc-88de-a548912db075)
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io/)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![chatapp diagram drawio](https://github.com/user-attachments/assets/c0f30009-ec02-4ecc-88de-a548912db075)
 
 A production-ready, scalable real-time chat application built entirely on AWS serverless architecture. This project demonstrates modern DevOps practices, cloud-native development, and enterprise-grade security patterns [memory:3][memory:4].
 <img width="1919" height="914" alt="chat1" src="https://github.com/user-attachments/assets/c505922a-eaf8-4923-b6f8-ed7fb988a6d6" />
