@@ -1,4 +1,5 @@
 # 🚀 AWS Serverless Real-Time Chat Application
+![chatapp diagram drawio](https://github.com/user-attachments/assets/c0f30009-ec02-4ecc-88de-a548912db075)
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io/)
